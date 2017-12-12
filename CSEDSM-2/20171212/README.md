@@ -11,6 +11,7 @@
     * simboli speciali: `pi`, `e`, `i`
     * plotting
   * `help` inline
+  * lavoro con i files
   * lettura/scrittura di files audio (`wavread`, `wavwrite`)
 * Ripasso delle tecniche di sintesi
   * sintesi additiva
