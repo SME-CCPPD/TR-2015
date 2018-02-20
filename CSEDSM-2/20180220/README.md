@@ -1,4 +1,4 @@
-# CSEDSM 2 - Lezione del 13 marzo 2018
+# CSEDSM 2 - Lezione del 20 febbraio 2018
 
 ## Argomenti
 
@@ -7,7 +7,7 @@
     * precisione frequenziale
     * precisione temporale
     * short time fourier transform (introduzione)
-  * calcolo dell'approssimazione
+  * errore
   * finestratura
   * tipi di finestre
   * risposta in frequenza delle finestre
