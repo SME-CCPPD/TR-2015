@@ -2,13 +2,4 @@
 
 ## Argomenti
 
-* Tecniche di analisi: l'analisi per scomposizione in serie di Fourier
-  * compromesso tempo/frequenza:
-    * precisione frequenziale
-    * precisione temporale
-    * short time fourier transform (introduzione)
-  * errore
-  * finestratura
-  * tipi di finestre
-  * risposta in frequenza delle finestre
-  * zero padding temporale => interpolazione frequenziale
+* ripasso dei concetti espressi in precedenza
