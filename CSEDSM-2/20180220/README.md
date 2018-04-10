@@ -3,3 +3,9 @@
 ## Argomenti
 
 * ripasso dei concetti espressi in precedenza
+* passaggio dal dominio reale al dominio complesso e viceversa:
+  l'abolizione della trigonometria
+
+## Lavagne:
+
+![whiteboard](./CSEDSM_II_20180220.jpg)
