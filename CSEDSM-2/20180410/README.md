@@ -7,8 +7,9 @@
     * precisione frequenziale
     * precisione temporale
     * short time fourier transform (introduzione)
-  * errore
-  * finestratura
-  * tipi di finestre
-  * risposta in frequenza delle finestre
-  * zero padding temporale => interpolazione frequenziale
+
+## Lavagne
+
+![whiteboard 1](./CSEDSM_II_20180410_1.jpg)
+
+![whiteboard 2](./CSEDSM_II_20180410_2.jpg)
